@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+nav{
+	background-color: yellow;
+	margin-bottom: 20px;
+	text-align: center;
+}
+nav a{
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 10px;
+}
+nav a:hover{
+	text-decoration: underline;
+}
+nav a.selected{
+	color: orange;
+}
+@media (min-width: 600px)
+
+
+figure{
+	float: left;
+	background-color: purple;
+	margin:0 0 20px 0;
+	width: 50%;
+	text-align: center;
+	position: relative;
+}
+footer{
+background-color: pink;
+}
