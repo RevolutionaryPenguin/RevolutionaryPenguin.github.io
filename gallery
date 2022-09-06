@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My Gallery Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="styles/global.css">
+    </head>
+    <body>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="gallery.html"class="selected">Gallery</a>
+       </nav>
+        <article>
+            <figure>
+                <a href="images/pexels-vadim-b-127027.jpg"target=_blank><img src="images/pexels-vadim-b-127027.jpg" width="300">
+                </a>
+                <figcaption>
+                    BOB the DOG
+                </figcaption>
+            </figure>
+            <figure>
+                <a href="images/pexels-marko-blazevic-774731.jpg"target=_blank><img src="images/pexels-marko-blazevic-774731.jpg" width="300">
+                </a>
+                <figcaption>
+                    BOB the DOG again
+                </figcaption>
+            </figure>
+        </article>
+        <footer>
+            hi hi hi hi
+        </footer>
+    </body>
+</html>
