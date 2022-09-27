@@ -9,7 +9,7 @@ nav{
 nav a{
 	color: #000;
 	font-weight: bold;
-	text-decoration: italic;
+	text-decoration: line-through;
 	display: inline-block;
 	margin: 0 10px;
 }
@@ -17,7 +17,7 @@ nav a:hover{
 	text-decoration: underline;
 }
 nav a.selected{
-	color: green;
+	color: orange;
 }
 @media (min-width: 600px)
 
