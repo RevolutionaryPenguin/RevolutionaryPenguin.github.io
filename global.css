@@ -1,6 +1,9 @@
 body{
 	margin: 0;
 }
+@font-face{
+	font-family: cursive;
+}
 nav{
 	background-color: yellow;
 	margin-bottom: 20px;
@@ -30,9 +33,6 @@ figure{
 	width: 50%;
 	text-align: center;
 	position: relative;
-}
-@fontface{
-	font-family: cursive;
 }
 footer{
 background-color: pink;
