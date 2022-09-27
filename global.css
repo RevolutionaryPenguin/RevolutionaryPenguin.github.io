@@ -8,6 +8,7 @@ nav{
 }
 nav a{
 	color: #324;
+        font-family: cursive;
 	font-weight: bold;
 	text-decoration: none;
 	display: inline-block;
@@ -30,7 +31,7 @@ figure{
 	text-align: center;
 	position: relative;
 }
-@font-face{
+@fontface{
 	font-family: cursive;
 }
 footer{
