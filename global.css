@@ -30,6 +30,9 @@ figure{
 	text-align: center;
 	position: relative;
 }
+@font-face{
+	font-family: "Gill Sans", sans-serif;
+}
 footer{
 background-color: pink;
 }
