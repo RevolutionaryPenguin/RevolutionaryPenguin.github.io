@@ -9,7 +9,7 @@ nav{
 nav a{
 	color: #000;
 	font-weight: bold;
-	text-decoration: line-through;
+	text-decoration: none;
 	display: inline-block;
 	margin: 0 10px;
 }
