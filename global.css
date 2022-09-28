@@ -6,13 +6,11 @@ nav{
 	margin-bottom: 20px;
 	text-align: center;
 }	
-@font-face{
-	font-family: cursive;
 }
 nav a{
 	color: #324;
         font-family: cursive;
-	font-weight: bold;
+	font-weight: 900;
 	text-decoration: none;
 	display: inline-block;
 	margin: 0 10px;
@@ -24,8 +22,11 @@ nav a.selected{
 	color: orange;
 }
 p{
-        font-family: myFirstFont;
-        src: url(bungeespice-regular.ttf);
+        font-family: sans-serif;
+}
+a{
+	font-family: font1:
+	src: url(bungeespice-regular.ttf);
 }
 @media (min-width: 600px)
 figure{
