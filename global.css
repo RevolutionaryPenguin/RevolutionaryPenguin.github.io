@@ -9,6 +9,8 @@ nav{
 	margin-bottom: 20px;
 	text-align: center;
 }
+@font-face{
+	
 nav a{
 	color: #324;
         font-family: cursive;
@@ -23,10 +25,18 @@ nav a:hover{
 nav a.selected{
 	color: orange;
 }
-@media (min-width: 600px)
-a{
-	font-family: cursive;
+@font-face{
+	font-family: nanum_pen_script-regular;
+	src: nanumpenscript-regular.ttf
 }
+a{
+	font-face: nanum_pen_script-regular;
+}
+p{
+	font-face: bungee_spice-regular;
+	src: bungeespice-regular.ttf
+}
+@media (min-width: 600px)
 
 figure{
 	float: left;
@@ -39,3 +49,4 @@ figure{
 footer{
 background-color: pink;
 }
+
