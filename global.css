@@ -25,13 +25,7 @@ nav a:hover{
 nav a.selected{
 	color: orange;
 }
-@font-face {
-  font-family: myFont;
-  src: url(bungeespice-regular.ttf);
-}
-a{
-	font-family: myFont;
-}
+
 @media (min-width: 600px)
 
 figure{
@@ -45,4 +39,3 @@ figure{
 footer{
 background-color: pink;
 }
-
