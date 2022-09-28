@@ -23,6 +23,11 @@ nav a:hover{
 nav a.selected{
 	color: orange;
 }
+p{
+        font-family: myFirstFont;
+        src: url(bungeespice.ttf);
+        font-weight: bold;
+}
 @media (min-width: 600px)
 figure{
 	float: left;
