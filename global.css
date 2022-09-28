@@ -21,13 +21,10 @@ nav a:hover{
 nav a.selected{
 	color: orange;
 }
-p{
+a{
         font-family: sans-serif;
 }
-a{
-	font-family: font1:
-	src: url(bungeespice-regular.ttf);
-}
+
 @media (min-width: 600px)
 figure{
 	float: left;
