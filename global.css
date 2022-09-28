@@ -8,9 +8,7 @@ nav{
 	background-color: yellow;
 	margin-bottom: 20px;
 	text-align: center;
-}
-@font-face{
-	
+}	
 nav a{
 	color: #324;
         font-family: cursive;
