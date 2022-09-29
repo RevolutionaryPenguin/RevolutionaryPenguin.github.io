@@ -22,8 +22,11 @@ nav a.selected{
 }
 a{
         font-family: sans-serif;
+	font-weight: 200;
 }
-
+p{
+	font-weight: 500;
+}
 @media (min-width: 600px)
 figure{
 	float: left;
