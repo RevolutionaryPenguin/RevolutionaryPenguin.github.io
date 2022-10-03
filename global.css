@@ -27,6 +27,7 @@ article{
 h3{
 	font-family: serif;
 	font-weight: bold;
+	background-color: green;
 }
 @media (min-width: 600px)
 figure{
