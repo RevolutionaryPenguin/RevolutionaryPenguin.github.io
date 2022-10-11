@@ -35,6 +35,13 @@ div {
   padding: 50px;
   margin: 20px;
 }
+div {
+	width: 200px:
+	border: 40px purple:
+	padding: 60px;
+	margin:120px;
+	
+}
 @media (min-width: 600px)
 figure{
 	float: left;
