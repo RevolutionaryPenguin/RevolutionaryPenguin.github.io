@@ -5,7 +5,7 @@ nav{
 	width: 300px;
   	border: 15px solid green;
   	padding: 50px;
-	background-color: linear-gradent(yellow, pink);
+	background-image: linear-gradient(purple, red, yellow);
 	margin-bottom: 20px;
 	text-align: center;
 }
@@ -34,7 +34,7 @@ h3{
   	padding: 50px;
 	font-family: serif;
 	font-weight: bold;
-	background-color: linear-gradent(red, purple);
+	background-color: red;
 }
 button {
     appearance: auto;
@@ -85,5 +85,5 @@ figure{
 	position: relative;
 }
 footer{
-background-color:  linear-gradent(yellow, blue);
+background-color:  blue;
 }
