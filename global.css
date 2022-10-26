@@ -9,7 +9,7 @@ nav{
 	margin-bottom: 20px;
 	text-align: center;
 }
-#grad {
+grad {
   background-image: linear-gradient(pink, yellow);
 }
 nav a{
