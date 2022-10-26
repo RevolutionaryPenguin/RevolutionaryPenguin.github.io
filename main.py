@@ -1,3 +1,4 @@
-# say hi 
-print("hello")
+def inflate():
+  increase header.size:
+    2
 
