@@ -3,6 +3,7 @@ body{
 }
 nav{
 	width: 300px;
+	float: middle;
   	border: 15px solid green;
   	padding: 50px;
 	background-image: linear-gradient(purple, red, yellow);
